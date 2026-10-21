@@ -1,5 +1,15 @@
 ---
-title: "larsrichel-ui.github.io"
+title: "Lars Richel"
+image: IMG_2180.jpeg
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 10em
+  links:
+    - icon: github
+      href: "https://github.com/larsrichel-ui/larsrichel-ui.github.io"
+      target: blank
 ---
 
 This is a Quarto website.
