@@ -1,6 +1,6 @@
 ---
 title: "Lars Richel"
-image: IMG_2180.jpeg
+image: media/IMG_2180.jpeg
 toc: false
 about:
   template: trestles
@@ -10,12 +10,39 @@ about:
     - icon: github
       href: "https://github.com/larsrichel-ui/larsrichel-ui.github.io"
       target: blank
+    - href: index.qmd
+      text: Home
+    - href: resume.qmd
+      text: Resume
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+```{}
 ```
+
+# This is Header1
+
+## This is Header2
+
+### This is Header3
+
+This is a paragraph. It will be about me. Welcome!
+
+- This
+
+- is
+
+- an
+
+- unordered
+
+- list
+
+1.  This
+
+2.  is
+
+3.  an
+
+4.  ordered
+
+5.  list

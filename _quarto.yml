@@ -5,10 +5,14 @@ project:
 website:
   title: "larsrichel"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
+      - icon: github
+        href: https://github.com/larsrichel-ui/larsrichel-ui.github.io
+        target: blank
 
 format:
   html:

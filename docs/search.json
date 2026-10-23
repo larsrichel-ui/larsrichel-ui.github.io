@@ -7,10 +7,10 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#this-is-header2",
+    "href": "index.html#this-is-header2",
     "title": "Lars Richel",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "section": "This is Header2",
+    "text": "This is Header2\n\nThis is Header3\nThis is a paragraph. It will be about me. Welcome!\n\nThis\nis\nan\nunordered\nlist\n\n\nThis\nis\nan\nordered\nlist"
   }
 ]
